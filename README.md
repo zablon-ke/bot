@@ -1,2 +1,2 @@
 # bot
-This i an auto bidding bot 
+This is an auto bidding bot 
